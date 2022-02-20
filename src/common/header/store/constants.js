@@ -1,0 +1,1 @@
+export const HEADER_HANDLE_FOCUS = "header/handle_focus";
